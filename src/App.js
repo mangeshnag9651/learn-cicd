@@ -10,7 +10,7 @@ function App() {
         <a
          
         >
-          Learning CI/CD(pipeline) on AWS for React Application
+          Learning CI/CD(pipelin) on AWS for React Application
         </a>
       </header>
     </div>
